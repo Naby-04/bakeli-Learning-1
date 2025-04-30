@@ -1,4 +1,4 @@
-window.COLORS = {
+export const COLORS = {
   gradientOne: {
     color: "",
     image: "linear-gradient(90deg, #4dc9e6, #210cac)",
@@ -24,4 +24,3 @@ window.COLORS = {
     image: "linear-gradient(45deg, #85ffbd, #fffb7d)",
   },
 };
-// export { name };
